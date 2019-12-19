@@ -60,7 +60,6 @@
 }
 
 .o-gradient-html,
-.o-gradient-good-to-know,
 .o-gradient-git {
   background: linear-gradient(to right, #7ed8b8 0%, #19b9e5 100%);
 }
@@ -72,4 +71,9 @@
 	background: #F09819;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #EDDE5D, #F09819); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	
+}
+.o-gradient-good-to-know {
+	background: #1D976C;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
